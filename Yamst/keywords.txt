@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map Yamst
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Yamst	KEYWORD1	Yamst
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+stop	KEYWORD2
+start	KEYWORD2
+is_running	KEYWORD2
+get_elapsed_millis	KEYWORD2
+time_has_elapsed	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
